@@ -1,0 +1,11 @@
+#search-section {
+  display: flex;
+}
+
+.btn {
+  padding: 1px;
+}
+
+label {
+  font-size: 1rem;
+}
